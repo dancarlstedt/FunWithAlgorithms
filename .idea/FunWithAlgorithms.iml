@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="jasmine-DefinitelyTyped" level="application" />
     <orderEntry type="library" name="FunWithAlgorithms node_modules" level="project" />
+    <orderEntry type="library" name="karma-jasmine.js" level="application" />
   </component>
 </module>
