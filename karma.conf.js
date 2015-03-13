@@ -18,7 +18,7 @@ module.exports = function (config) {
             'Permutations/*.js',
             'Combinations/*.js',
             'Sorting/*.js',
-            'DataStructures/**/*.js'
+            'DataStructures/*.js'
         ],
 
 
